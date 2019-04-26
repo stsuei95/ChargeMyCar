@@ -11,7 +11,7 @@ A simple Selenium Python script that automatically signs up for a waitlist spot 
 
 ### Credits goes to 
 
-(Tutorial on how to set a web scraper on AWS lambda)[http://robertorocha.info/setting-up-a-selenium-web-scraper-on-aws-lambda-with-python/]
+[Tutorial on how to set a web scraper on AWS lambda](http://robertorocha.info/setting-up-a-selenium-web-scraper-on-aws-lambda-with-python/)
 
 
 
