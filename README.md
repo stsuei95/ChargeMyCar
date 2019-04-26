@@ -11,9 +11,8 @@ A simple Selenium Python script that automatically signs up for a waitlist spot 
 
 ### Why??
 
-1. Cause I wanted to try building something!
-2. Friend asked me to 
-3. Why not? 
+1. Learning!
+2. Friend asked me to. 
 
 ### Credits goes to 
 
